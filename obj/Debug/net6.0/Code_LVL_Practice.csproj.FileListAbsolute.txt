@@ -1,0 +1,15 @@
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\bin\Debug\net6.0\Code_LVL_Practice.exe
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\bin\Debug\net6.0\Code_LVL_Practice.deps.json
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\bin\Debug\net6.0\Code_LVL_Practice.runtimeconfig.json
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\bin\Debug\net6.0\Code_LVL_Practice.dll
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\bin\Debug\net6.0\Code_LVL_Practice.pdb
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.csproj.AssemblyReference.cache
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.AssemblyInfoInputs.cache
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.AssemblyInfo.cs
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.csproj.CoreCompileInputs.cache
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.dll
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\refint\Code_LVL_Practice.dll
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.pdb
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\Code_LVL_Practice.genruntimeconfig.cache
+C:\Users\jmcca\source\repos\Code_LVL\Code_LVL_Practice\obj\Debug\net6.0\ref\Code_LVL_Practice.dll
